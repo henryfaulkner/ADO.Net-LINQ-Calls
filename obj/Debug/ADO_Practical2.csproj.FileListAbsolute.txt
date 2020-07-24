@@ -1,0 +1,15 @@
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\bin\Debug\ADO_Practical2.exe.config
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\bin\Debug\ADO_Practical2.exe
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\bin\Debug\ADO_Practical2.pdb
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\bin\Debug\EntityFramework.dll
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\bin\Debug\EntityFramework.xml
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\obj\Debug\ADO_Practical2.csprojAssemblyReference.cache
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\obj\Debug\ADO_Practical2.Properties.Resources.resources
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\obj\Debug\ADO_Practical2.csproj.GenerateResource.cache
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\obj\Debug\ADO_Practical2.csproj.CoreCompileInputs.cache
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\obj\Debug\ADO_Practical2.csproj.CopyComplete
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\obj\Debug\ADO_Practical2.exe
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\obj\Debug\ADO_Practical2.pdb
+C:\Users\Henry.Faulkner\Documents\Modules\Module_5.5\ADO_Practical2\ADO_Practical2\obj\Debug\ADO_Practical2.Form1.resources
